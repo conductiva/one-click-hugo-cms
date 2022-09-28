@@ -5,7 +5,7 @@ description: "La cotització al RETA es durà a terme en funció dels rendiments
   anuals obtinguts en l'exercici de les seves activitats: la LPGE establirà
   anualment una taula de bases de cotització; a cadascun dels trams de
   rendiments nets s'assignarà una base de cotització mínima i màxima mensual."
-image: /img/blog-chemex.jpg
+image: img/screenshot-2022-09-22-at-09.41.54.png
 ---
 Aquí el llistat principal de novetats:
 
